@@ -37,3 +37,45 @@
 	</style>    
 </body>
 </html>
+
+li { font-family: 'Corbel Light'; 
+	 color: white; 
+}
+o1 { font-family: 'Corbel Light'; 
+	 color: white; 
+	 align: "left"; 
+}
+h1{ font-family: "Bauhaus 93"; 
+	color: white; 		
+}
+h2 {font-family: "Bauhaus 93"; 
+	color: white; 			
+}
+h3 {font-family: "Bauhaus 93"; 
+	color: white; 		
+}
+h4 { font-family: "Bauhaus 93"; 
+	color: white; 	
+}
+p7 {font-family: 'Corbel Light'; 
+	 color: white;	
+}
+p6 {font-family: 'Corbel Light'; 
+	 color: white; 	
+}
+p5 { font-family: 'Corbel Light'; 
+	 color: white; }
+p4 {font-family: 'Corbel Light'; 
+	 color: white; 	
+}
+p3 {font-family: 'Corbel Light'; 
+	 color: white;		
+}
+p2 { font-family: 'Corbel Light'; 
+	 color: white; }
+p1 {font-family: 'Corbel Light'; 
+	 color: white; }
+
+
+
+
