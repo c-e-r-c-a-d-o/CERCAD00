@@ -16,7 +16,7 @@
 <a href="MarketingEvaluation.html" title="Marketing Evaluation">Marketing Evaluation</a>
 <br> <h3>About Cercado</h3>
    <p1>
-	<br> <em>Cercado</em> consists of two words: <strong>Cerca and Cercado.</strong> Cerca means being close to <br>something while <em>Cercado</em> is the spanish word for closed. The combination of these <br>two words is precisly what I want to display. You have got to work hard to turn <br>obstacles into possibilites, but one thing is for sure. You will shine brighter. <br>Come and have a look on the brighter side!</p1>
+	<br> <em>Cercado</em> consists of two words: <strong>Cerca and Cerrado.</strong> Cerca means being close to <br>something while <em>Cerrado</em> is the spanish word for closed. The combination of these <br>two words is precisly what I want to display. You have got to work hard to turn <br>obstacles into possibilites, but one thing is for sure. You will shine brighter. <br>Come and have a look on the brighter side!</p1>
 
 	
 
